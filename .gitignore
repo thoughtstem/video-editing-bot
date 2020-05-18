@@ -1,0 +1,10 @@
+*~
+\#*
+.\#*
+.DS_Store
+compiled/
+/doc/
+/bot/
+/archived-bot-*/
+.discord-key
+.discourse-key
